@@ -1,11 +1,10 @@
 
 
-[logo]: https://github.com/seclorum/timetron2019/blob/master/flyer.jpg "timetron2019 interactive computing exhibit, shop subotron MQ Vienna"
+[flyer]:https://github.com/seclorum/timetron2019/raw/master/flyer.jpg "timetron2019 interactive computing exhibit, shop subotron MQ Vienna"
 [shopsubotron]: https://subotron.com/wp-content/themes/subotron1202/images/subotron_logo-2017.png "Shop Subotron"
 
-![timetron2019 interactive computing exhibit, shop subotron MQ Vienna][logo]
+![timetron2019 interactive computing exhibit, shop subotron MQ Vienna][flyer]
 
-# timetron2019
 
 ## Vetus COMPUTERS non mori do suo USERS
 
