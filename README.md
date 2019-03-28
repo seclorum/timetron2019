@@ -17,9 +17,12 @@ Files related to the TIMETRON2019 Interactive Computing Exhibit at Shop Subotron
 
 ## Location
 
-Shop Subotron
-Museumsplatz 1
-1070 Vienna
-Austria
+###### Shop Subotron
+###### Museumsplatz 1
+###### 1070 Vienna
+###### Austria
+
 ![shop subotron][shopsubotron]
+
 [shop subotron](http://shop.subotron.com)
+
