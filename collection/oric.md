@@ -1,8 +1,13 @@
-
+---
+documentclass: article
+fontsize: 10pt
+mainfont: Roboto
+geometry: [top=2cm, bottom=1.5cm, left=1cm, right=1cm]
+---
 
 [atmos]: https://github.com/seclorum/timetron2019/raw/master/collection/oric/atmos.png "oric atmos"
 
-![xxx][atmos]
+![][atmos]
 
 # oric atmos
 

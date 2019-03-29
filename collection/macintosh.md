@@ -1,8 +1,12 @@
-
-
+---
+documentclass: article
+fontsize: 10pt
+mainfont: Roboto
+geometry: [top=2cm, bottom=1.5cm, left=1cm, right=1cm]
+---
 [powerbook]: https://github.com/seclorum/timetron2019/raw/master/collection/macintosh/powerbook520c.png "macintosh powerbook"
 
-![macintosh powerbook][powerbook]
+![][powerbook]
 
 # macintosh powerbook
 
@@ -19,11 +23,10 @@ explore the hypercard stacks we have left for you on the desktop.
 
 this system will be on display from April - May 2019
 
-## Links
-
-###macintosh powerbook series @ wikipedia
+## macintosh powerbook series @ wikipedia
 
 https://en.wikipedia.org/wiki/PowerBook\_500\_series
 
-
 <img style="float: right;" src="https://github.com/seclorum/timetron2019/raw/master/collection/macintosh/powerbook520c.png">
+
+\pagenumbering{gobble}

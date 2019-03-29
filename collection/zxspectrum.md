@@ -1,8 +1,13 @@
-
+---
+documentclass: article
+fontsize: 10pt
+mainfont: Roboto
+geometry: [top=2cm, bottom=1.5cm, left=1cm, right=1cm]
+---
 
 [spectrum]: https://github.com/seclorum/timetron2019/raw/master/collection/spectrum/spectrum.png "zx spectrun"
 
-![zx spectrum][spectrum]
+![][spectrum]
 
 # zx spectrum
 
@@ -12,6 +17,6 @@
 
 turn the machine on, and follow the instructions.
 
-## Links
+## zx spectrum @ wikipedia
 
-[zx spectrum @ wikipedia](https://en.wikipedia.org/wiki/ZX_Spectrum)
+https://en.wikipedia.org/wiki/ZX_Spectrum

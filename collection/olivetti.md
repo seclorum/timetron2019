@@ -1,8 +1,12 @@
-
-
+---
+documentclass: article
+fontsize: 10pt
+mainfont: Roboto
+geometry: [top=2cm, bottom=1.5cm, left=1cm, right=1cm]
+---
 [m10]: https://github.com/seclorum/timetron2019/raw/master/collection/olivetti/m10.png "xxx yyy"
 
-![xxx][m10]
+![][m10]
 
 # olivetti m10
 

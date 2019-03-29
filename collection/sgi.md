@@ -1,8 +1,13 @@
-
+---
+documentclass: article
+fontsize: 10pt
+mainfont: Roboto
+geometry: [top=2cm, bottom=1.5cm, left=1cm, right=1cm]
+---
 
 [o2]: https://github.com/seclorum/timetron2019/raw/master/collection/sgi/o2.png "sgi o2"
 
-![sgi o2][o2]
+![][o2]
 
 # sgi o2
 
@@ -20,11 +25,8 @@ this is a unix system.  you know this!
 
 this system will be on display from May - June 2019
 
-## Links
-
-###sgi o2 @ wikipedia
+## sgi o2 @ wikipedia
 
 https://en.wikipedia.org/wiki/SGI_O2
 
-
-<img style="float: right;" src="https://github.com/seclorum/timetron2019/raw/master/collection/sgi/o2.png">
+\pagenumbering{gobble}
