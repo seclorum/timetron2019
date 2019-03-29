@@ -7,7 +7,9 @@
 # commodore 64
 
 
-*who hasn't got one of these stashed away somewhere, up in the parents attic?  the machine that made computing accessible to some many budding programmers deserves to be dug out, dusted off, and targeted with your efforts, developers!  here we present a working c64 running this years latest and greatest releases from hackers who never let their parents attic become a walled garden...*
+*who hasn't got one of these stashed away somewhere, up in the parents attic?  the machine that made computing accessible to so many budding programmers deserves to be dug out, dusted off, and targeted with your new-school, 21st-century developer efforts!  
+
+here we present a working c64 running this years latest and greatest releases from hackers who never let their parents attic become a walled garden...*
 
 # demo
 
