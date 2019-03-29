@@ -5,7 +5,7 @@ mainfont: Roboto
 geometry: [top=2cm, bottom=1.5cm, left=1cm, right=1cm]
 ---
 
-[spectrum]: https://github.com/seclorum/timetron2019/raw/master/collection/spectrum/spectrum.png "zx spectrun"
+[spectrum]: https://github.com/seclorum/timetron2019/raw/master/collection/spectrum.png "zx spectrun"
 
 ![][spectrum]
 

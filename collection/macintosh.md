@@ -4,7 +4,7 @@ fontsize: 10pt
 mainfont: Roboto
 geometry: [top=2cm, bottom=1.5cm, left=1cm, right=1cm]
 ---
-[powerbook]: https://github.com/seclorum/timetron2019/raw/master/collection/macintosh/powerbook520c.png "macintosh powerbook"
+[powerbook]: https://github.com/seclorum/timetron2019/raw/master/collection/powerbook520c.png "macintosh powerbook"
 
 ![][powerbook]
 

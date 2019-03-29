@@ -5,7 +5,7 @@ mainfont: Roboto
 geometry: [top=2cm, bottom=1.5cm, left=1cm, right=1cm]
 ---
 
-[bebox]: https://github.com/seclorum/timetron2019/raw/master/collection/bebox/bebox.png "BeBox"
+[bebox]: https://github.com/seclorum/timetron2019/raw/master/collection/bebox.png "BeBox"
 
 ![][bebox]
 

@@ -4,7 +4,7 @@ fontsize: 10pt
 mainfont: Roboto
 geometry: [top=2cm, bottom=1.5cm, left=1cm, right=1cm]
 ---
-[m10]: https://github.com/seclorum/timetron2019/raw/master/collection/olivetti/m10.png "xxx yyy"
+[m10]: https://github.com/seclorum/timetron2019/raw/master/collection/m10.png "olivetti m10"
 
 ![][m10]
 

@@ -4,7 +4,7 @@ fontsize: 10pt
 mainfont: Roboto
 geometry: [top=2cm, bottom=1.5cm, left=1cm, right=1cm]
 ---
-[portfolio]: https://github.com/seclorum/timetron2019/raw/master/collection/atari/portfolio.png "atari portfolio"
+[portfolio]: https://github.com/seclorum/timetron2019/raw/master/collection/portfolio.png "atari portfolio"
 
 ![][portfolio]
 

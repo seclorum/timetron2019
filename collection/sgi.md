@@ -5,7 +5,7 @@ mainfont: Roboto
 geometry: [top=2cm, bottom=1.5cm, left=1cm, right=1cm]
 ---
 
-[o2]: https://github.com/seclorum/timetron2019/raw/master/collection/sgi/o2.png "sgi o2"
+[o2]: https://github.com/seclorum/timetron2019/raw/master/collection/o2.png "sgi o2"
 
 ![][o2]
 
