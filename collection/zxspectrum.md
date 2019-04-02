@@ -19,6 +19,6 @@ here we indulge in a bit of nostalgia for the classics and as well show some of 
 
 # demo
 
-turn the machine on, and follow the instructions.
+turn the machine on and follow the instructions.
 
 \pagenumbering{gobble}

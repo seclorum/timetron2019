@@ -16,6 +16,6 @@ geometry: [top=2cm, bottom=1.5cm, left=1cm, right=1cm]
 
 # demo
 
-turn the machine on, and follow the instructions.
+turn the machine on and follow the instructions.
 
 \pagenumbering{gobble}

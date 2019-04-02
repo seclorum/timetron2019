@@ -16,6 +16,6 @@ this portfolio still lives and is as useful a tool as ever, since it has a C com
 
 # demo
 
-turn the machine on, and follow the instructions.
+turn the machine on and follow the instructions.
 
 \pagenumbering{gobble}

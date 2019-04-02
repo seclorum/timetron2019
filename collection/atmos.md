@@ -18,6 +18,6 @@ here we delight in seeing just how far things have come, 30+ years after this sh
 
 # demo
 
-turn the screen on, and follow the instructions.
+turn the screen on and follow the instructions.
 
 \pagenumbering{gobble}
