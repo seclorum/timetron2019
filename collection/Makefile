@@ -37,5 +37,8 @@ zxspectrum.pdf:	zxspectrum.md
 	pandoc -s -V fontsize=10pt --template=default.latex -V papersize:a5   zxspectrum.md -o zxspectrum.pdf
 	open zxspectrum.pdf
 
+dist:	all	
+	mv -n *.pdf ../pdf/
+
 clean:
 	rm -rf *.pdf
