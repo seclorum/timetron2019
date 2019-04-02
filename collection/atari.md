@@ -10,20 +10,12 @@ geometry: [top=2cm, bottom=1.5cm, left=1cm, right=1cm]
 
 # atari portfolio
 
-*the atari portfolio was one of the first pocketable computers that you could actually use to do things ..  but is probably most famous as the hacker terminal used by John Conner to collect cash from an ATM machine so as to escape the Terminator.*
+the atari portfolio was one of the first pocketable computers that you could actually use to do useful things - although is probably most easily recognized as the hacker terminal deployed by John Conner to collect cash from an ATM machine so as to escape the Terminator.  not that doing so wouldn't be useful, were it necessary..
 
-*the portfolio fits in a special place in nerd lore - unattainable - atari folded shortly after its release - yet desired as an object which hinted at an alternative future - where atari still lived, and was as useful a tool against oppression as any toy of the rebellion.*
+this portfolio still lives and is as useful a tool as ever, since it has a C compiler.  so we used it to make some small games, which you can play. maybe we'll wire it up to the matrix, also.
 
 # demo
 
 turn the machine on, and follow the instructions.
-
-# exhibit period
-
-this system will be on display from April - May 2019
-
-## atari portfolio @ wikipedia
-
-https://en.wikipedia.org/wiki/Atari_Portfolio
 
 \pagenumbering{gobble}
