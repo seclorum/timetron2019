@@ -2,17 +2,18 @@
 \pagenumbering{gobble}
 
 [timetron2019logo]: https://github.com/seclorum/timetron2019/raw/master/Logo/pngs/LogoJV_BO_1.png 
-[flyer]:https://github.com/seclorum/timetron2019/raw/master/flyer.jpg "timetron2019 interactive computing exhibit, shop subotron MQ Vienna"
-[shopsubotron]: https://subotron.com/wp-content/themes/subotron1202/images/subotron_logo-2017.png "Shop Subotron"
+[flyer]:https://github.com/seclorum/timetron2019/raw/master/flyer.jpg "timetron2019 interactive computing exhibit, subotron hub MQ Vienna"
+[subotronhub]: https://subotron.com/wp-content/themes/subotron1202/images/subotron_logo-2017.png "SUBOTRON Hub"
 
 ![][flyer]
 
 \pagebreak
 
-![][shopsubotron]
+![][subotronhub]
 
 ## Location
-###### Shop Subotron
+###### SUBOTRON hub
+###### MuseumsQuartier
 ###### Museumsplatz 1
 ###### 1070 Vienna
 ###### Austria
@@ -21,7 +22,7 @@
 ## Links
 * https://subotron.com/7635-timetron-2019/
 * https://github.com/seclorum/timetron2019/
-* http://shop.subotron.com
+* http://subotron.com
 * curator: seclorum@icloud.com art: litto
 * (bebox, sgi, amstrad, oric, portfolio, olivetti, spectrum, macintosh, commodore)
 
