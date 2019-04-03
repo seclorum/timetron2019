@@ -22,8 +22,7 @@
 * https://subotron.com/7635-timetron-2019/
 * https://github.com/seclorum/timetron2019/
 * http://shop.subotron.com
-* curator: seclorum@icloud.com
-* art: litto
+* curator: seclorum@icloud.com art: litto
 * (bebox, sgi, amstrad, oric, portfolio, olivetti, spectrum, macintosh, commodore)
 
 \pagebreak
