@@ -34,3 +34,7 @@ https://www.retrogamer.net/top_10/top-ten-amstrad-cpc-6128-games/
 http://www.indieretronews.com/search/label/Zx%20Spectrum
 
 
+
+## Oric-1/Atmos
+http://oric.org/
+
